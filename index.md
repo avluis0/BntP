@@ -20,6 +20,11 @@ layout: home
             En <em>Apuntes</em> encontrarás archivos con definiciones conceptuales y/o entrevistas. 
         </p>
     </li>
+      <li>
+        <p>
+            En <em>Foro</em> encontrarás un canal de communicación en el que te puedo resolver dudas o preguntas sobre el contenido de las clases y lo que vas aprendiendo. 
+        </p>
+    </li>
     <li>
         <p>
             En <em>Música</em> encontrarás enlaces a clásicos de la música funk o hip hop, y sesiones que puedes usar para practicar. 
