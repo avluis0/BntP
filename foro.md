@@ -5,13 +5,13 @@ permalink: /foro/
 ---
 
 <h2>Foro de preguntas</h2>
-<p></p>
+<p><em>(Necesitarás una cuenta de gmail para acceder al foro)</em></p>
 <iframe id="forum_embed"
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width="900"
-  height="700">
+  width= "900"
+  height= "700">
 </iframe>
 <script type="text/javascript">
   document.getElementById('forum_embed').src =
