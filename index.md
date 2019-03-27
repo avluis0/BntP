@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<div style="padding: 30px; border: 2px solid black;">
+<div style="padding: 30px; border: 2px solid #d9dce0; margin-bottom: 50px">
 
 <h2><strong>¡Bienvenido!</strong></h2>
 <p>
