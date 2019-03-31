@@ -10,7 +10,7 @@ permalink: /foro/
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width= "900"
+  width= "700"
   height= "700">
 </iframe>
 <script type="text/javascript">
