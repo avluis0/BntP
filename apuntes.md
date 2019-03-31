@@ -4,6 +4,7 @@ title: Apuntes
 permalink: /apuntes/
 ---
 
+<body oncontextmenu="return false">
 <h3><strong>Vocabulario de movimientos.</strong></h3>
 <h4><u>Breaking.</u></h4>
 <h4><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=vkQbGYootJ0">• B-boy Storm Footwork Fundamentals DVD</a></h4>
@@ -67,3 +68,4 @@ function validatePass(){
 </iframe>
 </div>
 </div>
+</body>
