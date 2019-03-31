@@ -25,7 +25,7 @@ permalink: /apuntes/
 </div>
 <h4 style="color: blue">• Beat Street (1984) (+12)</h4>
 <div style="align:left; padding:5px; transform: translateY(-20%);">
-<p>Beat Street es una película que inspiró a mucha gente a bailar en los años 80. Recomendada para<em>12 o más años de edad</em>.
+<p>Beat Street es una película que inspiró a mucha gente a bailar en los años 80. Recomendada para <em>12 o más años de edad</em>.
 <span>
 <strong style="color:grey">Contraseña:</strong> <input id='password' type='text'  />
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/19_rvPf4UbOTUCykSYt1w2RQ0ITiwSzf6/view?usp=sharing" onclick="javascript:return validatePass()">validar</a>
