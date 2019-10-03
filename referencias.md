@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apuntes
-permalink: /apuntes/
+title: Referencias
+permalink: /referencias/
 ---
 
 <body oncontextmenu="return false">

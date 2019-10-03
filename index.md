@@ -6,33 +6,28 @@ layout: home
 ---
 <div style="padding: 30px; border: 2px solid #d9dce0; margin-bottom: 50px">
 
-<h2><strong>¡Bienvenido!</strong></h2>
+<h2><strong>Aula virtual clases de Break</strong></h2>
 <p>
-    Ésta página recoge materiales que pueden serte útiles para aprender más sobre break, la cultura hip hop, y otros temas relacionados o afínes. 
+    Ésta página sirve como recurso de apoyo a las clases de break que imparto en Tenerife.
 </p>
 <p>
-    La página es muy sencilla y tiene tres secciones difrenciadas: <em>Apuntes</em>, <em>Música</em> y <em>Videos</em>.
+    La página es muy sencilla y tiene tres secciones difrenciadas: <em>Tutoriales</em>, <em>Referencias</em> y <em>Música</em>.
 </p>
 
 <ul>
     <li>
         <p>
-            En <em>Apuntes</em> encontrarás archivos con definiciones conceptuales y/o entrevistas. 
-        </p>
-    </li>
-      <li>
-        <p>
-            En <em>Foro</em> encontrarás un canal de communicación en el que te puedo resolver dudas o preguntas sobre el contenido de las clases y lo que vas aprendiendo. 
+            En <em>Tutoriales</em> encontrarás videos explicativos de movimientos o ejercicios que vemos en clase o que puedes realizar en casa como complemento. 
         </p>
     </li>
     <li>
         <p>
-            En <em>Música</em> encontrarás enlaces a clásicos de la música funk o hip hop, y sesiones que puedes usar para practicar. 
+            La sección de <em>Referencias</em> incluye textos o videos que puedes ojear para despertar tu curiosidad y acudir con preguntas a clase.
         </p>
     </li>
     <li>
         <p>
-            En <em>Videos</em> encontrarás enlaces a batallas de baile o recopilaciones de bailarines que han dejado su huella en la historia de la danza urbana. 
+            En <em>Música</em> encontrarás enlaces a sesiones de música o listas de reproducción que puedes usar para practicar en casa. 
         </p>
     </li>
 </ul>

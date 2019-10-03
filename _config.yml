@@ -16,9 +16,7 @@
 title: Breaking en tu Pantalla
 email: avinylo.fp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ésta página web está diseñada para ser una fuente de información para mis alumnos 
-  de baile. Él tiempo que dedicamos a aprender durante la clase no siempre es suficiente,
-  espero que te guste lo que encuentras aquí y te sea útil.
+  Herramienta virtual para la formación de bailarines de break.
 # baseurl: "avinylo.com" # the subpath of your site, e.g. /blog
 url: "http://avinylo.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
