@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Tutoriales
-permalink: /tutoriales/
+permalink: /tutoriales/2
 ---
 
 <html>
@@ -37,8 +36,8 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="1">Toprock & Godowns</a>
-  <a href="2">Footwork</a>
+  <a href="1">Toprock & Godowns</a>
+  <a class="active" href="2">Footwork</a>
   <a href="3">Freezes & Powermoves</a>
   <a href="4">Rutinas & Combinaciones</a>
   <a href="5">Conceptos</a>

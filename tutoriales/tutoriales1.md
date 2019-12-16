@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Tutoriales
-permalink: /tutoriales/
+permalink: /tutoriales/1
 ---
 
 <html>
