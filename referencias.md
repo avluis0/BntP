@@ -14,6 +14,9 @@ permalink: /referencias/
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/koreanroc"><img src="https://yt3.ggpht.com/a/AGF-l7_uMrOY-6FPEqllFTm101yZ4g00F5cVrKdz2Q=s288-c-k-c0xffffffff-no-rj-mo" alt="koreanrocTV" height="56" width="56"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/allthatbreak"><img src="https://yt3.ggpht.com/a/AGF-l7-MO43EJ4a7AgNNmR1Uu2qcNeqm1BmkZv06mg=s288-c-k-c0xffffffff-no-rj-mo" alt="allthatbreak" height="56" width="56"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/RONATOUNE"><img src="https://yt3.ggpht.com/a/AGF-l78Djb_Y9kPumFAWaGnO5wTfeqiVN63AVGYKPg=s288-c-k-c0xffffffff-no-rj-mo" alt="BboyWorld" height="56" width="56"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/BBOYCHAMPIONSHIPS"><img src="https://yt3.ggpht.com/a/AGF-l795ZCseo3WYKzTncVbuZcW2mDhHgZ2ZjmhLEg=s288-c-k-c0xffffffff-no-rj-mo" alt="ProDanceTv" height="56" width="56"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC9oEzPGZiTE692KucAsTY1g"><img src="https://yt3.ggpht.com/a/AGF-l7-2XLJmnh71BDOzQKoxWgxOvSORN86LdapSmA=s288-c-k-c0xffffffff-no-rj-mo" alt="RedbullBCone" height="56" width="56"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCAg9gPPCqeRoCKMYNriNlRA"><img src="https://yt3.ggpht.com/a/AGF-l7935qYkYI2k7W_JxC4cJa-d-vZQtuBcC6PM5A=s288-c-k-c0xffffffff-no-rj-mo" alt="RedbulldanceConnect" height="56" width="56"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/PEPITO7DOLLARS"><img src="https://yt3.ggpht.com/a/AGF-l7-DgjEBsYzUxBZq-CQEN-UZMzK7a6G1YMbxCw=s288-c-k-c0xffffffff-no-rj-mo" alt="Pepitointhecypher" height="56" width="56"></a>
 </div>
 <h3><strong>Vídeos instruccionales y Antología.</strong></h3>
